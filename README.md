@@ -23,7 +23,7 @@ Exploring the intersection of **Full Stack Development**, **Artificial Intellige
 
 #  Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,flutter,dotnet,postgres,git,vscode,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,flutter,dotnet,postgres,git,vscode,html,css,js" />
 
 </div>
 
