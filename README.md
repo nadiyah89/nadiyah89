@@ -10,7 +10,7 @@
 
 #  About Me
 
-Passionate about building impactful software solutions using modern technologies.
+Passionate about building impactful software solutions using Modern technologies.
 
 Exploring the intersection of **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
 
