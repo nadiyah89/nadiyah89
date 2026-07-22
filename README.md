@@ -8,7 +8,7 @@
 
 <div align="center">
 
-#  Abou Me
+#  About Me
 
 Passionate about building impactful software solutions using Modern technologies.
 
