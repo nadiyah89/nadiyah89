@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Nadia Khan
+# Hi , I'm Nadia Khan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+|+AI+%26+ML+Enthusiast&center=true&width=500&height=50)](https://git.io/typing-svg)
 
